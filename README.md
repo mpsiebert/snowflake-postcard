@@ -1,4 +1,4 @@
-# ✉ Snowflake Summit 2025 — Postcard Activation
+# ✉ Snowflake Summit 2025 — Say Hello from Summit!
 
 Interactive experience where attendees write and address a physical postcard, then use Snowflake to maps its journey from Moscone Center to anywhere in the USA — powered by Snowflake geospatial functions, Cortex AI, and Streamlit. 
 
