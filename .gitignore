@@ -1,0 +1,19 @@
+# Credentials & secrets — NEVER commit these
+.env
+rsa_key.pem
+rsa_key.pub
+*.pem
+*.key
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Streamlit
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
